@@ -28,47 +28,58 @@ The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrol
 
 
 # FEATURES OF STM32F407VG MICROCONTROLLER : 
+
 * In a LQFP100 package, the STM32F407VGT6 microcontroller has a 32-bit ARM Cortex-M4 with FPU core, 1-Mbyte Flash memory, and 192-Kbyte RAM.
+
 * On-board ST-LINK/V2 or ST-LINK/V2-A on STM32F4 DISCOVERY (old reference) or STM32F407G-DISC1 (new order code)
+
 * USB ST-LINK with three separate interfaces and re-enumeration capability.
+
 * Virtual Com port Debug port (with new order code only)
+
 * Large-scale storage (with new order code only)
+
 * Board power is supplied through USB or an external 5 V supply source.
+
 * 3 V and 5 V external application power supply.
 
 
+
 # USES OF STM32F407VG MICROCONTROLLER : 
+
+
 * This Microcontroller is utilised in printing and scanning machines ,heat ventilation, air conditioning, and security systems.
+
 * This module can be found in a variety of household products.
 
 
 
 
-# WORKING PRINCIPLE
- Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+# WORKING PRINCIPLE :
+Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
  
  
  # 4W's
   
   
-  # Who 
+  # Who :
  
   * Windshield Wiper Invented In 1902 By A Woman Entrepreneur Mary Anderson 
  
  
- # What
+ # What :
  
  
  * Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
 
 
- # Where
+ # Where :
  
  
  * The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 
  
- # Why
+ # Why :
  
  
  * To keep the windscreen clean enough to give adequate view at all times.

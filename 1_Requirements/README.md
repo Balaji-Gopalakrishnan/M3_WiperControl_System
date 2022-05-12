@@ -65,25 +65,23 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
   
   # Who :
  
-  * Windshield Wiper Invented In 1902 By A Woman Entrepreneur Mary Anderson 
- 
+  * When it starts to rain, the front of the automobile normally employs a wiper system that uses two blades at once and a parallel tandem system to move the two blades. When the wiper motor starts to come on, the crank arm rotates, causing the connecting rods to pull and push against each other.
  
  # What :
  
  
- * Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
-
+ * Windshield wipers are a minor component of your vehicle, but they have a significant impact on your driving and overall safety. At the touch of a button, they    quickly and cleanly remove rain, snow, dirt, pollen, frost, and other material. Windshield wiper arms are moved across the windshield by the windshield wiper motor.
 
  # Where :
  
  
- * The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
-
+ * A wiper drive and two wiper arms make up a windshield wiper system. The drive pushes the two wiper arms across the windshield at an angle that allows the driver and passenger to see clearly. A carefully contoured rubber wiping lip gives the best possible wipe.
+ 
  
  # Why :
  
  
- * To keep the windscreen clean enough to give adequate view at all times.
+ * The wiper cleans the front and rear windshields of the car, albeit not all cars have wipers on the back side. WIper cleans the windshield by removing oil, dust, moisture, and grime that have become attached.
 
  
 

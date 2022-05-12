@@ -9,7 +9,8 @@ The operational speed of a wiper is controlled by a wiper speed control system i
 
 # SOFTWARE USED : 
 
-1) STM32 CUBE IDE
+1) STM32CubeIDE
+
 
 
 # COMPONENTS : 
@@ -52,6 +53,15 @@ The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrol
 
 * This module can be found in a variety of household products.
 
+
+# FOLDER STRUCTURE :
+
+  |Folder |Description|
+  |:------------------|:----------------|
+  | 1_Requirements     |Documents detailing requirements and research|
+  | 2_Architecture     |Documents specifying design details|
+  | 3_Implementation   |All code and documentation|
+  | 4_Testplan & Output|Documents with test plans and procedures|
 
 
 

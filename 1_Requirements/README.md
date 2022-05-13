@@ -62,6 +62,8 @@ The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrol
   | `2_Architecture`     |Documents specifying design details|
   | `3_Implementation`   |All code and documentation|
   | `4_Testplan & Output`|Documents with test plans and procedures|
+  | `5_Report`           |Overall report of the project|
+  | `6_ImageAndOutput`   |Code execution output images|
 
 
 
@@ -70,7 +72,7 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
 
  
  
- # 4W's
+ # 4W's & 1H
   
   
   # Who :
@@ -93,7 +95,36 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
  
  * The wiper cleans the front and rear windshields of the car, albeit not all cars have wipers on the back side. WIper cleans the windshield by removing oil, dust, moisture, and grime that have become attached.
 
+
+
+# HOW :
+
+* The control system includes a rain sensor which detects the rain condition. An analog signal having an amplitude depending upon the detected rain conditions has been identified.A converter is used to convert analog signal into digital pulse signal and is transferred to a digital circuit system.The pulse signal is digitally processed where a control signal is produced.The control signal is applied to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
+
+
+
+# SWOT ANALYSIS
+
+# STRENGTH
+
+ * Low Budget
+ * Good Reputation
  
+# WEAKNESS
+
+* Structural Inertia
+* High Transaction Cost
+
+# OPPRONUTIES
+
+* Emerging New Markets
+* Demand for Saver Equipments
+
+# THREATS
+
+* Low Bargaining Power Buyers
+* Econimical Crisis
+
 
 
  

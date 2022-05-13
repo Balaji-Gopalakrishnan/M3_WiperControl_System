@@ -119,7 +119,9 @@ Assume that the automobile is the microcontroller. If the button is hit, the fir
  
  * The wiper cleans the front and rear windshields of the car, albeit not all cars have wipers on the back side. WIper cleans the windshield by removing oil, dust, moisture, and grime that have become attached.
 
+# How :
 
+The control system includes a rain sensor which detects the rain condition. An analog signal having an amplitude depending upon the detected rain conditions has been identified.A converter is used to convert analog signal into digital pulse signal and is transferred to a digital circuit system.The pulse signal is digitally processed where a control signal is produced.The control signal is applied to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
 
  
  

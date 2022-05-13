@@ -89,6 +89,14 @@ The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrol
 
 
 
+# WORKING PRINCIPLE :
+Assuming that the automobile is the microcontroller(STM32F407VG). If the button is pressed , the first led (red) will turn on, Clicking again the wiper will starts , and the second led (blue) will turn on for a desired rate. If the button is pressed again , the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange) , and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click of the button.
+
+
+
+
+
+
 
 
  

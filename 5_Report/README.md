@@ -103,6 +103,15 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
 ![ENGINE_ON STATE](https://user-images.githubusercontent.com/74197288/168262367-3097b9ae-ed68-4423-b25f-104a3c40cb95.png)
 
 
+# WIPER RUNS AT LOW SPEED :
+
+
+
+![WIPER RUNS AT 35%(LOW)](https://user-images.githubusercontent.com/74197288/168294222-ceb6c08e-dad1-42d2-b396-784bb5a77ab7.png)
+
+
+
+
 
 # WIPER STARTS & RUNS AT MODERATE SPEED : 
 
@@ -111,6 +120,15 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
  
 
 ![WIPER STARTS   RUNS AT 70%(MEDIUM)](https://user-images.githubusercontent.com/74197288/168262575-bb0dd897-fcec-4b27-988d-0688288a9550.png)
+
+
+
+# WIPER RUNS FAST :
+
+
+
+![WIPER RUNS AT 100%(FAST)](https://user-images.githubusercontent.com/74197288/168294382-0c4cf7b0-c706-4154-8842-c70ddb81cdc1.png)
+
 
 
 

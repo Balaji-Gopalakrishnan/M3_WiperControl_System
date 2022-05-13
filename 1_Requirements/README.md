@@ -97,7 +97,7 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
 
 
 
-# HOW :
+# How :
 
 * The control system includes a rain sensor which detects the rain condition. An analog signal having an amplitude depending upon the detected rain conditions has been identified.A converter is used to convert analog signal into digital pulse signal and is transferred to a digital circuit system.The pulse signal is digitally processed where a control signal is produced.The control signal is applied to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
 

@@ -94,12 +94,39 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
 
 
 
+# ENGINE_ON STATE : 
 
 
+
+
+
+![ENGINE_ON STATE](https://user-images.githubusercontent.com/74197288/168262367-3097b9ae-ed68-4423-b25f-104a3c40cb95.png)
+
+
+
+# WIPER STARTS & RUNS AT MODERATE SPEED : 
 
 
 
  
+
+![WIPER STARTS   RUNS AT 70%(MEDIUM)](https://user-images.githubusercontent.com/74197288/168262575-bb0dd897-fcec-4b27-988d-0688288a9550.png)
+
+
+
+
+
+# ENGINE_OFF STATE :
+
+
+
+
+
+
+![ENGINE_OFF STATE](https://user-images.githubusercontent.com/74197288/168263299-aa56a1cd-a998-46f2-98f6-dcf8e25d2853.png)
+
+
+
 
 
 # 4W's & 1H

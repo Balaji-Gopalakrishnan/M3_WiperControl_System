@@ -68,6 +68,29 @@ The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrol
   | `6_ImageAndOutput`   |Code execution output images|
 
 
+# DETAIL REQUIREMENTS :
+
+# HIGHLEVEL REQUIREMENTS 
+
+|High Level Requirements|Description|
+|:------|:---------|
+|HLR1|Programming language(C language)|
+|HLR2|Arm based microcontroller(STM32F40VGT6)|
+|HLR3|operating system(Windows)|
+|HLR4|RAM(Min 4GB)|
+|HLR5|Hard Disk(Min 250GB)|
+
+# LOWLEVEL REQUIREMENTS
+
+|Low Level Reqiurements|Description|Status|
+|:-----|:--------|:---|
+|LLR1|ON-Ignition key|Implemented|
+|LLR2|Press Multi-functional button|Implemented|
+|LLR3|4 Different Color Leds|Implemented|
+|LLR4|Timer|Implemented|
+|LLR5|OFF-Wiper button|Implemented|
+
+
 
 # WORKING PRINCIPLE :
 Assuming that the automobile is the microcontroller(STM32F407VG). If the button is pressed , the first led (red) will turn on, Clicking again the wiper will starts , and the second led (blue) will turn on for a desired rate. If the button is pressed again , the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange) , and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click of the button.

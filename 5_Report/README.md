@@ -106,9 +106,11 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
 # WIPER RUNS AT LOW SPEED :
 
 
-![image](https://user-images.githubusercontent.com/74197288/168301682-02ddff75-56ab-4ee3-9e78-4ec3a752f03d.png)
 
 
+
+
+![WIPER RUNS AT 35%(LOW)](https://user-images.githubusercontent.com/74197288/168419630-910f2b77-7f47-46df-8ab5-a842c9462dbe.png)
 
 
 
@@ -127,9 +129,9 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
 
 
 
-![image](https://user-images.githubusercontent.com/74197288/168300388-d536755f-1506-4a9d-8d1d-6eef9a6e81bc.png)
 
 
+![orange led on](https://user-images.githubusercontent.com/74197288/168419506-19a8383c-93a3-4c39-a8aa-a27010adc84a.png)
 
 
 
